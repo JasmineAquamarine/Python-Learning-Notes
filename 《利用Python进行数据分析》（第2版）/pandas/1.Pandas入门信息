@@ -1,0 +1,9 @@
+## 第3集 Pandas入门（Series与DataFrame）
+
+- **对应章节**：第5章
+- **核心内容**：
+  - Series和DataFrame的创建与属性。
+  - 数据索引和切片（loc、iloc）。
+  - 常用数据查看方法（head、describe）。
+- **实战内容**：
+  - Titanic数据集初步探索。
